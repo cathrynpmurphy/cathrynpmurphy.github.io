@@ -24,6 +24,20 @@ minimal_mistakes_skin: "default"
 locale: "en-US"
 repository: "cathrynpmurphy/cathrynpmurphy.github.io"
 
+#Author Page
+author:
+  name: "Cathryn (Kate) P. Murphy"
+  avatar: "/assets/images/SailboatPhoto.jpeg"  # your photo
+  bio: "Your one-line bio here"
+  email: "CathrynMurphy2027@u.northwestern.edu"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=FIQ_jgIAAAAJ&hl=en"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/cv/"
+
 # Navigation
 header_pages:
   - about.md
