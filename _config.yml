@@ -4,13 +4,19 @@ url: "https://cathrynpmurphy.github.io"
 baseurl: ""
 author:
   name: "Cathryn P. Murphy"
-theme: "minimal-mistakes-jekyll"
+
+# Remote theme compatible with GitHub Pages
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
   - jemoji
+  - jekyll-remote-theme
 
+# Theme settings
 minimal_mistakes_skin: "default"
 
 # Site settings
@@ -18,12 +24,23 @@ locale: "en-US"
 repository: "cathrynpmurphy/cathrynpmurphy.github.io"
 
 # Navigation
-navigation:
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
-  - title: "CV"
-    url: /cv/
-  - title: "Interests"
-    url: /interests/
+header_pages:
+  - about.md
+  - research.md
+  - cv.md
+  - interests.md
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - .github
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
