@@ -8,9 +8,9 @@ permalink: /interests/
 
 <div style="display: flex; gap: 1em;">
   <figure style="flex: 1;">
-    <img src="/assets/images/ItalyPhoto.jpeg" style="width: 100%;">
+    <img src="assets/images/IMG_4434.jpeg" style="width: 100%;">
     <figcaption style="text-align: center; font-size: 0.85em; color: #666;">
-      Italy, 2024.
+      Lagurian Coast 2025, 2025
     </figcaption>
   </figure>
   <figure style="flex: 1;">
