@@ -1,24 +1,22 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 permalink: /
 ---
 
-Welcome to my academic profile. I am passionate about research and education.
+<div style="display: flex; gap: 2em; align-items: flex-start;">
+  
+  <!-- Left column: text -->
+  <div style="flex: 2;">
+    <h3>Cathryn (Kate) P. Murphy</h3>
+    <p>Hi, I'm Kate, a PhD student studying stochastic thermodynamics, thermodynamic computing, and tensor networks algorithms. My current work, advised by <a href="https://gingrich.chem.northwestern.edu/">Professor Todd Gingrich</a></p> at Northwestern, follows my undergraduate work with Professors <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/garashchuk_sophya.php">Sonya Garashchuk</a> and <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/rassolov_vitaly.php">Vitaly Rassolov</a> </p>
+    <p>Email: <a href="mailto:CathrynMurphy2027@u.northwestern.edu">CathrynMurphy2027@u.northwestern.edu</a></p>
+    <p><a href="[https://scholar.google.com/...](https://scholar.google.com/citations?user=FIQ_jgIAAAAJ&hl=en)">Google Scholar</a></p>
+  </div>
 
-## Background
+  <!-- Right column: photo -->
+  <div style="flex: 1;">
+    <img src="/assets/images/SailboatPhoto.jpeg" style="width: 100%;">
+  </div>
 
-[Add your background information here]
-
-## Education
-
-[Add your educational background here]
-
-## Current Position
-
-[Add information about your current role here]
-# Welcome to My Academic Profile
-
-I am an academic dedicated to research and education. Explore my work and publications through the links below.
-
-[View my publications on Google Scholar](https://scholar.google.com/citations?user=FIQ_jgIAAAAJ&hl=en)
+</div>
