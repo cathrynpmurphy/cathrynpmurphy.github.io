@@ -31,14 +31,14 @@ permalink: /research/
     <figure>
       <img src="/assets/images/StochasticCircuits1.png" style="width: 100%">
       <figcaption style="text-align: center; font-size: 0.75em; color: #666; line-height: 1.2; text-align: justify;">
-          We use tensor networks and a basis expansion to tractably compute the first two eigenvectors with DMRG. The first eigenvector, which has a zero eigenvalue, represents the steady state, from which we can compute the dissipation from local detailed balance relationships between the microscopic states. The first non-zero eigenvector corresponds to the slowest dynamical timescale representing the bit-flip error time. 
+          We use tensor networks and a basis expansion to tractably compute the first two eigenvectors with DMRG. 
       </figcaption>
     </figure>
   </div>
 
 </div>
 
-<p style="font-family: Georgia, serif; font-size: 0.85em;">
+<p style="font-family: Georgia, serif; font-size: 0.85em;margin-bottom: 0.1em;">
   Physical bits are subject to thermal noise, which can trigger unintented bit flip errors.
   In CMOS technology, errors are typically suppressed by increasing the voltage bias across its transistors.
   However, miniaturization drives circuits into regimes where the voltage cannot be simplt increased and where
@@ -47,6 +47,12 @@ permalink: /research/
   of the circuit requires that we build up the dynamics of the circuit from this microscopic event, 
   compromising tractability. We deploy tensor networks methods to tractably build up and solve the dynamics and thermodynamics
   while preserving the fundamental, discrete origins of stochastic noise.
+</p>
+<p style="font-family: Georgia, serif; font-size: 0.85em;margin-bottom: 0.1em;">
+  We use tensor networks and a basis expansion to tractably compute the first two eigenvectors with DMRG. 
+  The first eigenvector, which has a zero eigenvalue, represents the steady state, which we can use with 
+  local detailed balance relationships to compute the dissipation from local detailed balance. The first 
+  non-zero eigenvalue captures to the slowest dynamical timescale, corresponding to the bit-flip error time.
 </p>
 <p style="font-size: 1.1em; color: #2c3e50; font-family: Georgia, serif; font-size: 0.85em;"><a href="https://arxiv.org/abs/2603.04658">Cathryn Murphy, Schuyler Nicholson, Nahuel Freitas, Emanuele Penocchio, Todd Gingrich
 ,	arXiv:2603.04658 [cond-mat.stat-mech]</a></p>
