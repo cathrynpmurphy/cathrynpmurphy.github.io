@@ -6,7 +6,7 @@ author:
   name: "Cathryn P. Murphy"
 
 # Remote theme compatible with GitHub Pages
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Plugins
 plugins:
