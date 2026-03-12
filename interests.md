@@ -4,8 +4,6 @@ title: Other Interests
 permalink: /interests/
 ---
 
-# Other Interests
-
 Beyond my academic work, I enjoy exploring various interests and hobbies.
 
 ## Hobbies & Activities
