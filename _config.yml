@@ -36,7 +36,7 @@ author:
       url: "https://scholar.google.com/citations?user=FIQ_jgIAAAAJ&hl=en"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/CV_Cathryn_Murphy_Full.pdf"
+      url: "https://cathrynpmurphy.github.io/assets/files/CV_Cathryn_Murphy_Full.pdf"
 
 # Navigation
 header_pages:
