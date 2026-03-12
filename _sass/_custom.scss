@@ -18,3 +18,15 @@
   font-family: Georgia, serif !important;
   color: #a07080 !important;
 }
+
+.site-title::after {
+  content: "";
+  display: inline-block;
+  background-image: url('/assets/images/LogoCircuit.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
