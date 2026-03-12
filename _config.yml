@@ -1,0 +1,29 @@
+title: "Cathryn P. Murphy"
+description: "Academic Profile & Research"
+url: "https://cathrynpmurphy.github.io"
+baseurl: ""
+author:
+  name: "Cathryn P. Murphy"
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jemoji
+
+minimal_mistakes_skin: "default"
+
+# Site settings
+locale: "en-US"
+repository: "cathrynpmurphy/cathrynpmurphy.github.io"
+
+# Navigation
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /cv/
+  - title: "Interests"
+    url: /interests/
