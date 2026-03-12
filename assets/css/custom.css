@@ -1,0 +1,5 @@
+.author__avatar img {
+  border-radius: 0;        /* removes the circle */
+  max-width: 200px;        /* control the width */
+  position: static;        /* stops it moving with cursor */
+}
