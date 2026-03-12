@@ -39,14 +39,14 @@ permalink: /research/
 </div>
 
 <p style="font-family: Georgia, serif; font-size: 0.85em;">
-  Physical bits are subject to thermal noise, which in CMOS technology can trigger 
-  unintended bit-flip errors — particularly in low-voltage regimes. These errors are 
-  difficult to characterize because they arise from discrete stochastic electron 
-  conduction events. To address this, we deploy tensor networks to tractably compute 
-  the eigenvectors of the full discrete master equation while preserving local detailed 
-  balance. The zero eigenvector yields the steady-state distribution and the 
-  thermodynamics of dissipation, while the first eigenvector gives the timescale 
-  associated with bit-flip errors.
+  Physical bits are subject to thermal noise, which can trigger unintented bit flip errors.
+  In CMOS technology, errors are typically suppressed by increasing the voltage bias across its transistors.
+  However, miniaturization drives circuits into regimes where the voltage cannot be simplt increased and where
+  engineering must account for thermal noise. The physical origins of this thermal noise is the conduction of 
+  individual, discrete electrons, which are stochastically triggered by the state of the circuit. Capturing the thermodynamics
+  of the circuit requires that we build up the dynamics of the circuit from this microscopic event, 
+  compromising tractability. We deploy tensor networks methods to tractably build up and solve the dynamics and thermodynamics
+  while preserving the fundamental, discrete origins of stochastic noise.
 </p>
 <p style="font-size: 1.1em; color: #2c3e50; font-family: Georgia, serif; font-size: 0.85em;"><a href="https://arxiv.org/abs/2603.04658">Cathryn Murphy, Schuyler Nicholson, Nahuel Freitas, Emanuele Penocchio, Todd Gingrich
 ,	arXiv:2603.04658 [cond-mat.stat-mech]</a></p>
