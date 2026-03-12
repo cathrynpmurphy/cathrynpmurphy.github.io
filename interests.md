@@ -4,16 +4,10 @@ title: Other Interests
 permalink: /interests/
 ---
 
-Beyond my academic work, I enjoy exploring various interests and hobbies.
-
-## Hobbies & Activities
+## 2D Art Media
 
 [Add your hobbies and interests here]
 
-## Outdoor Activities
+## Other Activities
 
-[Add information about outdoor activities you enjoy here]
-
-## Publications & Writing
-
-[Add any non-academic writing or publications here]
+In additon to art, I also enjoy running, hiking, cooking, and playing the bass guitar.
