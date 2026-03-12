@@ -1,0 +1,21 @@
+---
+# Only the main.scss manifest file should import all partials
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+```
+
+Then rename your `custom.css` to `_custom.scss` and move it to `_sass/` so your file structure looks like:
+```
+_sass/
+  _custom.scss
+assets/
+  css/
+    main.scss
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+@import "custom";
