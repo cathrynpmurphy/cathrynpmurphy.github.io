@@ -5,13 +5,13 @@ permalink: /
 ---
 
 <div style="display: flex; gap: 2em; align-items: flex-start;">
-  
+
   <!-- Left column: text -->
   <div style="flex: 2;">
     <h3>Cathryn (Kate) P. Murphy</h3>
-    <p>Hi! I'm Kate, a PhD student studying stochastic thermodynamics and statistical mechanics. My current work, advised by <a href="https://gingrich.chem.northwestern.edu/">Professor Todd Gingrich</a> at Northwestern, is focused on deploying tensor networks algorithms to characterize systems in thermodynamic computing. I expect to graduate in September of 2027. My graduate reserach follows my undergraduate work in quantum chemistry with Professors <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/garashchuk_sophya.php">Sonya Garashchuk</a> and <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/rassolov_vitaly.php">Vitaly Rassolov</a>
+    <p>Hi! I'm Kate, a PhD student studying stochastic thermodynamics and statistical mechanics. My current work, advised by <a href="https://gingrich.chem.northwestern.edu/">Professor Todd Gingrich</a> at Northwestern, is focused on deploying tensor networks algorithms to characterize systems in thermodynamic computing. I expect to graduate in September of 2027. My graduate research follows my undergraduate work in quantum chemistry with Professors <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/garashchuk_sophya.php">Sonya Garashchuk</a> and <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/rassolov_vitaly.php">Vitaly Rassolov</a>.</p>
     <p>Email: <a href="mailto:CathrynMurphy2027@u.northwestern.edu">CathrynMurphy2027@u.northwestern.edu</a></p>
-    <p><a href="[https://scholar.google.com/...](https://scholar.google.com/citations?user=FIQ_jgIAAAAJ&hl=en)">Google Scholar</a></p>
+    <p><a href="https://scholar.google.com/citations?user=FIQ_jgIAAAAJ&hl=en">Google Scholar</a></p>
   </div>
 
   <!-- Right column: photo -->
