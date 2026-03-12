@@ -9,7 +9,7 @@ permalink: /
   <!-- Left column: text -->
   <div style="flex: 2;">
     <h3>Cathryn (Kate) P. Murphy</h3>
-    <p>Hi, I'm Kate, a PhD student studying stochastic thermodynamics, thermodynamic computing, and tensor networks algorithms. My current work, advised by <a href="https://gingrich.chem.northwestern.edu/">Professor Todd Gingrich</a></p> at Northwestern, follows my undergraduate work with Professors <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/garashchuk_sophya.php">Sonya Garashchuk</a> and <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/rassolov_vitaly.php">Vitaly Rassolov</a> </p>
+    <p>Hi, I'm Kate, a PhD student studying stochastic thermodynamics, thermodynamic computing, and tensor networks algorithms. My current work, advised by <a href="https://gingrich.chem.northwestern.edu/">Professor Todd Gingrich</a> at Northwestern, follows my undergraduate work with Professors <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/garashchuk_sophya.php">Sonya Garashchuk</a> and <a href="https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/rassolov_vitaly.php">Vitaly Rassolov</a>
     <p>Email: <a href="mailto:CathrynMurphy2027@u.northwestern.edu">CathrynMurphy2027@u.northwestern.edu</a></p>
     <p><a href="[https://scholar.google.com/...](https://scholar.google.com/citations?user=FIQ_jgIAAAAJ&hl=en)">Google Scholar</a></p>
   </div>
