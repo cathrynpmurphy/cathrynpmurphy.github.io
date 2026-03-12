@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
 ## Research Interests
 
 [Add your research interests here]
