@@ -32,8 +32,7 @@ repository: "cathrynpmurphy/cathrynpmurphy.github.io"
 author:
   name: "Cathryn (Kate) P. Murphy"
   avatar: "/assets/images/SailboatPhoto.jpeg"  # your photo
-  bio: "Your one-line bio here"
-  email: "CathrynMurphy2027@u.northwestern.edu"
+  bio: "Hi! I'm Kate, a PhD student working on stochastic thermodynamics and thermodynamic computing. My expected graduation is September of 2027."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
@@ -41,6 +40,10 @@ author:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "https://cathrynpmurphy.github.io/assets/files/CV_Cathryn_Murphy_Full.pdf"
+    - label: "CathrynMurphy2027@u.northwestern.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:CathrynMurphy2027@u.northwestern.edu"
+    
 
 # Navigation
 header_pages:
