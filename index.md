@@ -4,8 +4,6 @@ author_profile: true
 permalink: /
 ---
 
-# About Me
-
 Welcome to my academic profile. I am passionate about research and education.
 
 ## Background
