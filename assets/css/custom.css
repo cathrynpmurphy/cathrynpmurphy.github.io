@@ -3,3 +3,12 @@
   max-width: 200px;        /* control the width */
   position: static;        /* stops it moving with cursor */
 }
+
+.site-title {
+  font-family: Georgia, serif !important;
+}
+
+.page__title {
+  font-family: Georgia, serif !important;
+  color: #87CEEB !important;
+}
