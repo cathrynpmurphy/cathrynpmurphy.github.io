@@ -20,9 +20,9 @@ permalink: /interests/
     </figcaption>
   </figure>
   <figure style="flex: 1;">
-    <img src="/assets/images/SailboatPhoto.jpeg" style="width: 100%;">
+    <img src="assets/images/5E1482A5-DF68-4FE6-9E4F-18F2FF205C9C.jpeg" style="width: 100%;">
     <figcaption style="text-align: center; font-size: 0.85em; color: #666;">
-      Caption here.
+      Dearborn Observatory 2022, Pencil
     </figcaption>
   </figure>
   </figure>
