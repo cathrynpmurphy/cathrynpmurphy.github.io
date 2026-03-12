@@ -27,9 +27,9 @@ permalink: /interests/
   </figure>
   </figure>
   <figure style="flex: 1;">
-    <img src="/assets/images/SailboatPhoto.jpeg" style="width: 100%;">
+    <img src="assets/images/D01E43D0-F745-4184-955A-4BFF5CB699BB.jpeg" style="width: 100%;">
     <figcaption style="text-align: center; font-size: 0.85em; color: #666;">
-      Caption here.
+      Belmont Steps, Lake Michigan 2025, Acrylic
     </figcaption>
   </figure>
 </div>
