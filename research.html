@@ -7,14 +7,37 @@ permalink: /research/
 <p style="font-family: Georgia, serif; font-size: 1.2em; font-weight: bold;">
   Thermodynamics and Timescales in Stochastic Circuits
 </p>
-<div style="display: flex; gap: 1em;">
-  <figure style="flex: 1;">
-    <img src="/assets/images/StochasticCircuits2.png" style="width: 100%;">
-  </figure>
-  <figure style="flex: 1;">
-    <img src="/assets/images/StochasticCircuits1.png" style="width: 100%;">
-  </figure>
+
+<div style="display: flex; gap: 2em; align-items: flex-start;">
+
+  <!-- Left column: text -->
+  <div style="flex: 2;">
+    <figure>
+      <img src="/assets/images/StochasticCircuits2.png" style="width: 100%;">
+      <figcaption style="text-align: center; font-size: 0.85em; color: #666;">
+          CMOS bits harness ideal thermodynamic reservoirs using NOT gates to stabilize two distinct bit states (bistable peaks).
+      </figcaption>
+    </figure>
+    <figure>
+      <img src="/assets/images/StochasticCircuits3.png" style="width: 100%;">
+      <figcaption style="text-align: center; font-size: 0.85em; color: #666;">
+          CMOS bits harness ideal thermodynamic reservoirs using NOT gates to stabilize two distinct bit states (bistable peaks).
+      </figcaption>
+    </figure>
+  </div>
+
+  <!-- Right column: photo -->
+  <div style="flex: 1;">
+    <figure>
+      <img src="/assets/images/StochasticCircuits1.png" style="width: 100%;">
+      <figcaption style="text-align: center; font-size: 0.85em; color: #666;">
+          We use tensor networks and a basis expansion to tractably compute the first two eigenvectors with DMRG.
+      </figcaption>
+    </figure>
+  </div>
+
 </div>
+
 <p style="font-family: Georgia, serif;">
   Instantiations of a bit are subject to thermal noise. In bits instantiated with CMOS technology, this thermal noise dominates in low-voltage regimes and can trigger unintended bit-flip errors. Characterizing these errors is crucial for engineering but challenging due to the origin of this thermal noise from discrete individual stochastic electron conduction events. We deploy tensor networks to tractably compute the eigenvectors of the full discrete master equation while preserving local detailed balance. From the zero eigenvector, we extract the steady state distribution yielding the thermodynamics of dissipation, while from the first eigenvector we can extract the timescale associated with errors. 
 </p>
