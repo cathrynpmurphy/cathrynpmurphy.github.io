@@ -8,10 +8,6 @@ author:
 # Remote theme compatible with GitHub Pages
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
-#Head Scripts
-head_scripts:
-  - /assets/css/custom.css
-
 # Plugins
 plugins:
   - jekyll-feed
