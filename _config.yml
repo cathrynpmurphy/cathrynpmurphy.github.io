@@ -40,6 +40,8 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:CathrynMurphy2027@u.northwestern.edu"
     
+head_scripts:
+  - "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap"
 
 # Navigation
 header_pages:
