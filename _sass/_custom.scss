@@ -7,6 +7,7 @@
 .site-title {
   font-family: Georgia, serif !important;
   color: #a07080 !important;
+  font-size: 2.0em !important;
 }
 
 .page__title {
@@ -28,6 +29,5 @@
   width: 60px;
   height: 60px;
   margin-left: 8px;
-  position: relative;
-  top: 28px;
+  vertical-align: middle;
 }
