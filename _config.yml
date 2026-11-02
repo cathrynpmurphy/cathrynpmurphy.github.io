@@ -28,7 +28,7 @@ repository: "cathrynpmurphy/cathrynpmurphy.github.io"
 author:
   name: "Cathryn (Kate) P. Murphy"
   avatar: "/assets/images/SailboatPhoto.jpeg"  # your photo
-  bio: "Hi! I'm Kate, a PhD student working on stochastic thermodynamics and thermodynamic computing. My expected graduation is September of 2027."
+  bio: "Hi! I'm Kate, a PhD student working on the intersection of tensor networks and non-equilibrium statistical mechanics. My expected graduation is September of 2027."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
